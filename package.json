@@ -1,5 +1,5 @@
 {
-  "name": "(turbo_one)",
+  "name": "turbo_one",
   "private": true,
   "scripts": {
     "build": "turbo build",
